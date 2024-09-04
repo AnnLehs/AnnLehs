@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @AnnLehs
+- 👀 I am interested in how to use Git
+- 🌱 I am currently learning more about Git and Github
